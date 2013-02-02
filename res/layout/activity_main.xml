@@ -1,14 +1,34 @@
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout1"
     android:layout_width="fill_parent"
-    android:layout_height="fill_parent" >
+    android:layout_height="fill_parent"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentTop="true"
+    android:layout_marginLeft="87dp"
+    android:layout_marginTop="103dp"
+    android:gravity="center|center_vertical|clip_vertical"
+    android:orientation="vertical" >
 
-    <TextView
-        android:layout_width="wrap_content"
+    <Button
+        android:id="@+id/pill_button"
+        android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
-        android:text="@string/hello_world"
-        tools:context=".MainActivity" />
+        android:drawableLeft="@drawable/pill"
+        android:text="Button" />
 
-</RelativeLayout>
+    <Button
+        android:id="@+id/controls_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/controls"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/injection_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/injection"
+        android:text="Button" />
+
+</LinearLayout>
