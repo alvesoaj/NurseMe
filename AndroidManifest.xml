@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.zerokol.nurseme"
     android:versionCode="1"
@@ -19,6 +20,22 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.zerokol.nurseme.ControlsActivity"
+            android:label="@string/title_activity_controls" >
+        </activity>
+        <activity
+            android:name="com.zerokol.nurseme.InjectionActivity"
+            android:label="@string/title_activity_injection" >
+        </activity>
+        <activity
+            android:name="com.zerokol.nurseme.PillActivity"
+            android:label="@string/title_activity_pill" >
+        </activity>
+        <activity
+            android:name="com.zerokol.nurseme.DashboardActivity"
+            android:label="@string/title_activity_dashboard" >
         </activity>
     </application>
 

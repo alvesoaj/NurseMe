@@ -1,7 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <string name="app_name">Nurse Me</string>
-    <string name="menu_settings">Settings</string>
-    <string name="title_activity_main">NurseMe</string>
+    <string name="menu_settings_main">Settings</string>
+    <string name="main_tab_host_dashboard">Dashboard</string>
+    <string name="main_tab_host_pill">Pill</string>
+    <string name="main_tab_host_injection">Injection</string>
+    <string name="main_tab_host_controls">Controls</string>
+    <string name="title_activity_main">Nurse Me</string>
+    <string name="title_activity_controls">Controls</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_injection">Injection</string>
+    <string name="title_activity_pill">Pill</string>
+    <string name="title_activity_dashboard">Dashboard</string>
 
 </resources>
