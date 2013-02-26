@@ -1,4 +1,4 @@
-package br.com.cajuinalabs.nurseme;
+package com.zerokol.nurseme;
 
 import android.os.Bundle;
 import android.app.Activity;

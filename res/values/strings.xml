@@ -1,7 +1,7 @@
 <resources>
 
-    <string name="app_name">NurseMe</string>
+    <string name="app_name">Nurse Me</string>
     <string name="menu_settings">Settings</string>
-    <string name="title_activity_main">Main</string>
+    <string name="title_activity_main">NurseMe</string>
 
 </resources>

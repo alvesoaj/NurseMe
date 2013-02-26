@@ -3,11 +3,6 @@
     android:id="@+id/linearLayout1"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:layout_alignParentLeft="true"
-    android:layout_alignParentTop="true"
-    android:layout_marginLeft="87dp"
-    android:layout_marginTop="103dp"
-    android:gravity="center|center_vertical|clip_vertical"
     android:orientation="vertical" >
 
     <Button
