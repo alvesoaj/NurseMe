@@ -1,7 +1,8 @@
 Images:
+
 	http://www.iconfinder.com/icondetails/80866/256/light_male_nurse_icon
 	
-	www.iconfinder.com/icondetails/46713/128/definecontrols_medicine_icon
+	http://www.iconfinder.com/icondetails/46713/128/definecontrols_medicine_icon
 	
 	http://www.iconfinder.com/icondetails/10612/48/antivirus_drugs_injection_insert_medicine_icon
 	
